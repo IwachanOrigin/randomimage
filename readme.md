@@ -4,6 +4,7 @@
 画像表示、GUIにはQtを使用しています。  
 
 ## Demo
+![random](https://user-images.githubusercontent.com/12496951/189536695-fc9428ae-c565-4638-ac6c-26a9c95c2972.PNG)  
 
 ## Dependency
 - MSVC 15+  
